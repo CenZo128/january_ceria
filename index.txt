@@ -1,0 +1,7 @@
+Git adalah version control -> sytem untuk track files.
+Github adalah platform version control.
+
+Command github :
+1. Untuk menambah file -> git add <nama_file>
+2. Untuk menaikkan file -> git commit -m "message"
+3. Untuk mengirim file -> git push origin main
