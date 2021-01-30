@@ -1,0 +1,72 @@
+Git adalah version control -> sytem untuk track files.
+Github adalah platform version control.
+
+Command github :
+1. Untuk menambah file -> git add <nama_file>
+2. Untuk menaikkan file -> git commit -m "message"
+3. Untuk mengirim file -> git push origin main
+
+Algoritma adalah langkah-langkah untuk menyelesaikan suatu masalah.
+Pseudocode adalah kode yang ditulis dengan menggunakan sebuah algoritma, dan tidak sebatas dengan bahasa pemrograman tertentu
+
+Untuk membuat/menyelesaikan suatu masalah/task tertentu, harus melalui 3 tahap :
+1. Algoritma
+2. Pseudocode
+3. Coding -> Programming
+
+ALGORITMA
+
+ALVIN
+Cara membuat kue :
+1. Beli bahan
+2. Buka bahan
+3. Liat resep
+4. Buat adonan
+5. Bake
+
+JESSICA
+Cara membuat kue :
+1. Browsing resep
+2. Beli bahan
+3. Liat resep
+4. Buat adonan
+5. Bake
+
+VINCENT
+Cara membuat kue :
+1. Nyalakan mobil
+2. Pergi ke indomaret
+3. Searching resep dan bahan
+4. Ambil bahan
+5. Masukkin ke keranjang
+6. Pergi ke kasir dan bayar
+7. Pulang ke rumah
+8. Buka bahan
+9. Liat resep
+10. Cuci bahan
+11. Buat adonan
+12. Bake
+
+CASE :
+Buatlah rumus luas segitiga.
+Luas = 1/2 * alas * tinggi
+
+ALGORITMA
+1. Buat variable alas
+2. Buat variable tinggi
+3. Buat variable luas
+4. Kalikan alas dan tingi dan 1/2
+5. Pindahkan hasil perkalian ke variable Luas
+6. Tampilkan variable luas
+
+PSEUDOCODE
+
+SET alas
+SET tinggi
+SET luas
+STORE exact WITH 1/2
+
+luas = alas * tinggi * exact
+
+PRINT luas
+
