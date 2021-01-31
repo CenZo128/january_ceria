@@ -1,8 +1,46 @@
-{
-    "id" : 1,
-    "name" : "Honda Civic 2021",
-    "type" : "Sedan",
-    "cc" : 5000,
-    "engine" : false,
-    "tags" : []
-}
+[
+   {
+      "id": 1,
+      "name": "Honda Civic 2021",
+      "type": "Sedan",
+      "cc": 5000,
+      "engine": false,
+      "tags": []
+   },
+   {
+      "id": 2,
+      "name": "Colt 2021",
+      "type": "Pickup",
+      "cc": 3500,
+      "engine": false,
+      "tags": [
+         "cargo"
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Tiguan 2021",
+      "type": "SUV",
+      "cc": 35000,
+      "engine": false,
+      "tags": [
+         "suv"
+      ]
+   },
+   {
+      "id": 4,
+      "name": "Jazz 2021",
+      "type": "Sedan",
+      "cc": 3000,
+      "engine": false,
+      "tags": []
+   },
+   {
+      "id": 5,
+      "name": "Pajero 2021",
+      "type": "SUV",
+      "cc": 50000,
+      "engine": false,
+      "tags": []
+   }
+]
