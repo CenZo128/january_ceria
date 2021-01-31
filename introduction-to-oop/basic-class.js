@@ -19,6 +19,7 @@ class Vehicle {
     }
 }
 
+// Instatiate
 let civic = new Vehicle("Honda Civic 2021","Sedan",5000,false,[]); // vehicle instance of Vehicle
 let jazz = new Vehicle("Honda Jazz 2021","Sedan",3000,false,['jazz'])
 let pajero = new Vehicle("New Pajero 2021","SUV",15000,false,[])
