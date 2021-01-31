@@ -1,0 +1,8 @@
+{
+    "id" : 1,
+    "name" : "Honda Civic 2021",
+    "type" : "Sedan",
+    "cc" : 5000,
+    "engine" : false,
+    "tags" : []
+}

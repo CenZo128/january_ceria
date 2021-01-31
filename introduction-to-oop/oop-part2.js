@@ -1,12 +1,4 @@
-// OOP -> Object Oriented Programming
-/**
- * Pilar pilar utama dalam OOP :
- * 1. Inheritance
- * 2. Polymorphism
- * 3. Encapsulation : public, private, protected
- * 4. Abstraction
- */
-
+ 
 // Case
 /**
  * Seorang chef specialis makanan manis / dessert akan membuat 3 jenis dessert yaitu Chocolate Cookies, Sweet Cookies, Strawberry Cookies. Dimana dia akan membuat nya dalam Kitchen (factory class). 
