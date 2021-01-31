@@ -8,7 +8,8 @@
  */
 
  // Encapsulation : private
-class Vehicle {
+
+ class Vehicle {
     constructor(name,type,cc,engine,tags){
         this._name = name;
         this._type = type;
